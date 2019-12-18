@@ -1,0 +1,16 @@
+ul
+{
+  background-color: blueviolet;
+  width: 40%;
+  padding:20px;
+  margin:0px;
+}
+
+li
+{
+  list-style-type: none;
+  padding:5px;
+  margin:5px;
+  background-color: white;
+  border : solid 2px black;
+}
